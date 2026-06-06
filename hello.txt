@@ -1,4 +1,8 @@
 Hello Git 
 Learning Git 
 This is feature1 
+<<<<<<< HEAD
+Hello this is line oin feature 1 branch
+=======
 Hello Thisis added in Feature 1Branch
+>>>>>>> 3aab622ea414dfea35ea0e5571ec691fc0f8071b

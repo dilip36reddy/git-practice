@@ -1,2 +1,2 @@
-This file is created o feature 2
+This file is created o feature 1
 This is actually feature 1 file  but wantedly changed first line to tet merge and confkict
